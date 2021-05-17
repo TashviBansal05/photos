@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+}
+#img1{
+    width: 100%
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
+#contact ifram{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+#myCarousel{
+    background-color: aqua;
+}
+#myCarousel img{
+    height: 350px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: dimgrey;
+    font-size: 20px;
+}
